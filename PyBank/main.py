@@ -48,12 +48,7 @@ firstmonth = profit_losses[0]
 change = lastmonth - firstmonth
 averagechange = change/85
 
-#zip lists to find out which month corresponds to the greatest incease/decrease
-#together = list(zip(profit_losses,months))
-
-
 # print results to terminal 
-
 print("Financial Analysis\n")
 
 print("\n-------------------------------------\n")
